@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.0",
         "illuminate/contracts": "*",
-        "opcodesio/mail-parser": "^0.1.6"
+        "opcodesio/mail-parser": "*"
     },
     "require-dev": {
         "guzzlehttp/guzzle": "^7.2",
